@@ -7,3 +7,4 @@ To run the file,
 4. Run the mnist.py file firt. This trains the model
 5. After that, use this command in your VSCode terminal:  python -m http.server
 6. Go to your localhost on your system and the application launches
+7. The model has an accuracy of 98%
